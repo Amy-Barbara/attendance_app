@@ -7,8 +7,8 @@
 </template>
 
 <style lang="scss" scoped>
-  @import "~/assets/scss/mixins.scss";
-  .l-container {
-    @include container
-  }
+@import "~/assets/scss/mixins.scss";
+.l-container {
+  @include container;
+}
 </style>
